@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sashaejarque" alt="sashaejarque" /></a> </p>
 
-- 🔭 I’m currently working on [Pokemon-app](https://github.com/Sashaejarque/Pokemon-App)
+- 🔭 I’m currently working on [Backend node]([https://github.com/Sashaejarque/backend-node])
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **react, javascript, css**
 
